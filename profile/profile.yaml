@@ -1,0 +1,91 @@
+# Preferred name (Characters only)
+name: "Sanjana Krishnan"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: I am a Business Systems Analyst with a strong foundation in data engineering and analytics. My experience spans translating business needs into clear technical requirements, facilitating Agile delivery, and driving process improvements that enhance clarity and efficiency. With hands-on expertise in SQL, ETL pipelines, and PySpark, I bring a data-driven mindset to every stage of requirements gathering and solution design. Im passionate about bridging business goals and technical implementation by helping teams align on outcomes and deliver solutions that truly add value. I am seeking a Business Systems Analyst or Technical Business Analyst role in a data-focused environment. Combining strong analytical thinking, clear communication, and technical proficiency, I provide a balanced perspective that supports both strategic and execution excellence.
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Requirements Elicitation
+    - User Stories and Acceptance Criteria
+    - Process Documentation
+    - Scrum Framework
+    - Sprint Planning
+    - Stakeholder Engagement
+  Technical Skills:
+    - RDBMS/SQL
+    - PySpark
+    - Informatica
+    - Airtable
+    - Git/GitHub
+    - Linux / Bash
+    - Docker
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    description: "Independently implemented a Linux cluster monitoring solution and focused on the BSA aspects of the project by identifying key data points required for business insights. Ensured SQL queries and collected metrics aligned with the intended business purpose and reporting needs. Documented observations and validation steps to confirm the data supported decision-making objectives, translating technical outputs into actionable information from a business perspective."
+  - name: "SQL Learning & RDBMS Practice"
+    git_url: "/sql"
+    description: "Completed SQL and RDBMS exercises with a focus on understanding how queries and relational data models support business questions. Documented requirements for queries, validated data integrity, and translated technical outputs into insights useful for decision-making from a BSA perspective."
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+  - name: "Tier Recognition Feature"
+    description: "Implemented Tier 1/2/3 recognitions for multiple healthcare provider networks, enabling member and public search through the website filter. Used SQL insert statements to update source data and coordinated with the data load process to ensure accurate propagation to the final Elasticsearch layer for backend access. Ensured data correctness and business requirements were met, enabling users to filter providers by tier effectively."
+  - name: "Extended Hours Feature"
+    description: "Added an extended hours feature for healthcare providers, supporting member and public search for after-5pm and weekend availability across 10 source systems. Worked with multiple data sources to consolidate provider schedules and validate accuracy before deployment. Focused on ensuring the feature met business requirements and improved accessibility for end users."
+  - name: "Client Coaching Data Revamp"
+    description: "Revamped a disorganized client coaching dataset by redesigning and structuring information in Airtable. Automated email collection of income and performance data from clients, populated directly into tables, and created no-code visualizations to provide actionable insights. Improved data tracking and reporting, enabling coaches to adjust strategies and deliver better outcomes."
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  - title: "Business Systems Analyst"
+    company: "Jarvis Consulting"
+    duration: "October 2025 - Present"
+    description: "Translated business requirements into clear documentation and system specifications. Participated in Agile ceremonies including sprint planning, stand-ups, and reviews. Used SQL, Linux, Bash, Docker, and Git to support accurate data management and ensure deliverables meet business objectives."
+  - title: "Project Coordinator Intern"
+    company: "Stairway to Leadership"
+    duration: "September 2024 - December 2024"
+    description: "Gathered requirements and translated project goals into functional tasks and acceptance criteria. Centralized client data in Airtable, automated data collection, and built visualizations for actionable insights. Iterated workflows based on feedback to improve efficiency and reporting."
+  - title: "Associate Software Engineer"
+    company: "Carelon Global Solutions"
+    duration: "August 2021 - July 2023"
+    description: "Designed and validated SQL and PySpark data pipelines for large-scale healthcare provider data. Implemented Tier 1/2/3 provider recognition and extended hours features for the web app. Created documentation and test plans to support requirements and smooth Agile releases."
+  - title: "Crew Member"
+    company: "ONroute"
+    duration: "June 2024 - Present"
+    description: "Coordinated with teams to meet high-volume service targets while maintaining accuracy in transactions. Streamlined workflows and explained policies to non-technical audiences, improving efficiency and customer experience."
+#List of edcuation
+education: 
+  - school_name: "Trent University"
+    duration: " September 2023 - December 2024"
+    degree: "Master of Management"
+    department: "Business Management"
+    awards_achievements:
+  - school_name: "Ramaiah Institute of Technology"
+    duration: "August 2017 - July 2021"
+    degree: "Bachlor of Engineering"
+    department: "Electronics and Communication Engineering"
+    awards_achievements:
+#Optional section
+others:
+    #category
+  - title: "Certifications"
+    #list of items
+    bullets:
+      - "Certified Scrum Master - Issued by Scrum Alliance"
+      - "Project Management Professional - Issued by Project Management Institute"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Avid reader, head of the reading club in high school"
+      - "Two-time blood donor"
