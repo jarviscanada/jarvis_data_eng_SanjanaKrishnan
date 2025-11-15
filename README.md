@@ -1,50 +1,51 @@
 # Sanjana Krishnan . Jarvis Consulting
 
-I am a Business Systems Analyst with a strong foundation in data engineering and analytics. My experience spans translating business needs into clear technical requirements, facilitating Agile delivery, and driving process improvements that enhance clarity and efficiency. With hands-on expertise in SQL, ETL pipelines, and PySpark, I bring a data-driven mindset to every stage of requirements gathering and solution design. Im passionate about bridging business goals and technical implementation by helping teams align on outcomes and deliver solutions that truly add value. I am seeking a Business Systems Analyst or Technical Business Analyst role in a data-focused environment. Combining strong analytical thinking, clear communication, and technical proficiency, I provide a balanced perspective that supports both strategic and execution excellence.
+I am a Business Systems Analyst with a strong foundation in data engineering and analytics. My experience spans translating business needs into clear technical requirements, facilitating Agile delivery, and driving process improvements that enhance clarity and efficiency. With hands-on expertise in SQL, ETL pipelines, and PySpark, I bring a data-driven mindset to every stage of requirements gathering and solution design. I am passionate about bridging business goals and technical implementation by helping teams align on outcomes and deliver solutions that truly add value. Combining strong analytical thinking, clear communication, and technical proficiency, I provide a balanced perspective that supports both strategic and execution excellence.
 
 ## Skills
 
-**Business Skills:** Requirements Elicitation, User Stories and Acceptance Criteria, Process Documentation, Scrum Framework, Sprint Planning, Stakeholder Engagement
+**Proficient:** RDBMS/SQL, Informatica, Requirements Elicitation, Process Documentation, Story Mapping
 
-**Technical Skills:** RDBMS/SQL, PySpark, Informatica, Airtable, Git/GitHub, Linux / Bash, Docker
+**Competent:** JIRA, Confluence, Stakeholder Engagement, Linux, Git/Github
+
+**Familiar:** Airtable, Sprint Planning, Docker, Tableau, Elastic Search
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan/tree/master/linux_sql)]: Independently implemented a Linux cluster monitoring solution and focused on the BSA aspects of the project by identifying key data points required for business insights. Ensured SQL queries and collected metrics aligned with the intended business purpose and reporting needs. Documented observations and validation steps to confirm the data supported decision-making objectives, translating technical outputs into actionable information from a business perspective.
+**Linux Cluster Monitoring Agent** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan/tree/master/linux_sql)]: Implemented a Linux-based resource monitoring solution using Bash scripts and PostgreSQL, then analyzed the system from a BSA perspective to understand its business value. Identified key hardware and usage metrics required for capacity planning and documented how the collected data supports decisions such as scaling servers or optimizing resource allocation. Validated that the Bash scripts, cron schedules, and SQL schema aligned with the intended reporting needs by tracing requirements to actual outputs. Created clear technical documentation and data interpretation notes to translate system behavior and collected metrics into actionable business insights.
 
-**SQL Learning & RDBMS Practice** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan/tree/master/sql)]: Completed SQL and RDBMS exercises with a focus on understanding how queries and relational data models support business questions. Documented requirements for queries, validated data integrity, and translated technical outputs into insights useful for decision-making from a BSA perspective.
+**SQL Learning & RDBMS Practice** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan/tree/master/sql)]: Completed SQL and RDBMS exercises while approaching each query as a business requirement and documenting the underlying business question it answered. Analyzed relational structures, validated data accuracy, and ensured query logic aligned with expected outcomes from a stakeholder perspective. Practiced converting informal questions into structured requirements and verifying results against test data. Developed disciplined documentation habits by writing query explanations and translating technical outputs into insights that support decision-making.
 
 
 ## Highlighted Projects
-**Tier Recognition Feature**: Implemented Tier 1/2/3 recognitions for multiple healthcare provider networks, enabling member and public search through the website filter. Used SQL insert statements to update source data and coordinated with the data load process to ensure accurate propagation to the final Elasticsearch layer for backend access. Ensured data correctness and business requirements were met, enabling users to filter providers by tier effectively.
+**Tier Recognition Feature**: Analyzed the business requirement to classify healthcare providers into Tier 1/2/3 groups and ensured the logic aligned with how members search for in-network care. Used SQL insert statements to update tier attributes in the source data and validated that changes moved correctly through the ETL pipeline into the final Elasticsearch layer. Performed data checks to confirm that tier values displayed accurately in the provider search and supported user filtering. Documented edge cases, expected behaviors, and validation steps to ensure the implementation met stakeholder expectations.
 
-**Extended Hours Feature**: Added an extended hours feature for healthcare providers, supporting member and public search for after-5pm and weekend availability across 10 source systems. Worked with multiple data sources to consolidate provider schedules and validate accuracy before deployment. Focused on ensuring the feature met business requirements and improved accessibility for end users.
+**Extended Hours Feature**: Supported the development of extended-hours filtering by consolidating provider schedule data from 10 source systems and validating how each mapped into the integrated data model. Analyzed business rules around after-5pm and weekend availability and ensured they were accurately represented across Informatica workflows, SQL Server stored procedures, and downstream transformations. Verified data propagation through the Oracle layer and final Elasticsearch index to confirm that schedules displayed correctly in the provider search. Conducted UI data checks, documented assumptions, and outlined test scenarios to ensure the feature met business requirements. Ensured the enhancement improved member and public access by enabling precise filtering based on extended availability.
 
-**Client Coaching Data Revamp**: Revamped a disorganized client coaching dataset by redesigning and structuring information in Airtable. Automated email collection of income and performance data from clients, populated directly into tables, and created no-code visualizations to provide actionable insights. Improved data tracking and reporting, enabling coaches to adjust strategies and deliver better outcomes.
+**Client Coaching Data Revamp**: Redesigned a fragmented coaching dataset in Airtable by structuring information into standardized tables that reflected coaching workflows and reporting needs. Analyzed business requirements for monthly income tracking and automated email collection to streamline data intake from clients. Built no-code dashboards and visualizations to surface trends and insights for coaching decision-making. Validated data completeness and consistency across automated inputs and reporting views. Improved process efficiency by enabling faster and more accurate visibility into client progress.
 
 
 ## Professional Experiences
 
-**Business Systems Analyst, Jarvis Consulting (October 2025 - Present)**: Translated business requirements into clear documentation and system specifications. Participated in Agile ceremonies including sprint planning, stand-ups, and reviews. Used SQL, Linux, Bash, Docker, and Git to support accurate data management and ensure deliverables meet business objectives.
+**Business Systems Analyst, Jarvis Consulting (Oct 2025 - Present)**: Built core business systems analysis competencies by conducting requirements analysis for data-focused projects, translating business goals into technical tasks, and identifying the key data points needed for reporting and decision-making. Validated SQL outputs and system behaviors to ensure they aligned with expected requirements, documenting findings, assumptions, and outcomes. Developed clear functional documentation and communicated progress and clarifications to instructors and peers, simulating stakeholder collaboration. Strengthened analytical thinking by mapping business needs to data structures and system workflows in practice projects.
 
-**Project Coordinator Intern, Stairway to Leadership (September 2024 - December 2024)**: Gathered requirements and translated project goals into functional tasks and acceptance criteria. Centralized client data in Airtable, automated data collection, and built visualizations for actionable insights. Iterated workflows based on feedback to improve efficiency and reporting.
+**Project Coordinator, Stairway to Leadership (Sept 2024 - Dec 2024)**: Worked closely with the CEO to clarify business needs, refine requirements, and translate objectives into structured tasks and acceptance criteria. Cleaned and reorganized unstructured client data, defining the fields, business rules, and logic needed to standardize tracking and improve data quality. Built a scalable Airtable workspace that unified 15+ client cases, enabling more accurate reporting and faster decision-making. Created and refined performance insights through dashboards, supporting data-driven coaching strategies. Delivered a final handover package detailing workflows, data logic, and configuration to ensure smooth operational continuity.
 
-**Associate Software Engineer, Carelon Global Solutions (August 2021 - July 2023)**: Designed and validated SQL and PySpark data pipelines for large-scale healthcare provider data. Implemented Tier 1/2/3 provider recognition and extended hours features for the web app. Created documentation and test plans to support requirements and smooth Agile releases.
+**Associate Software Engineer, Carelon Global Solutions (Aug 2021 - July 2023)**: Collaborated with product and BA teams, developers, and QA in an Agile Scrum environment, participating consistently in daily stand-ups, sprint planning, story estimation, and sprint reviews. Clarified requirements, refined user stories, and defined acceptance criteria to ensure features aligned with business expectations. Translated business rules into SQL and PySpark logic and developed data pipelines supporting large-scale healthcare provider data. Partnered with QA to define test scenarios, validate data accuracy, and streamline release readiness. Authored SRDs, data mapping notes, and workflow documentation to support smooth handoffs across teams.
 
-**Crew Member, ONroute (June 2024 - Present)**: Coordinated with teams to meet high-volume service targets while maintaining accuracy in transactions. Streamlined workflows and explained policies to non-technical audiences, improving efficiency and customer experience.
+**Crew Member, ONroute (June 2024 - Present)**: Identified workflow bottlenecks and collaborated with team leads to streamline service processes, reducing customer wait times and improving operational efficiency. Interpreted promotional rules and service policies for customers and team members, demonstrating strong communication and requirement-clarification skills. Mentored and supported onboarding for new hires by walking them through POS usage and core procedures, improving training effectiveness. Maintained accuracy and attention to detail in a fast-paced environment while coordinating with cross-functional teams during peak hours.
 
 
 ## Education
-**Trent University ( September 2023 - December 2024)**, Master of Management, Business Management
+**Trent University ( Sept 2023 - Dec 2024)**, Master of Management, Business Management
 
-**Ramaiah Institute of Technology (August 2017 - July 2021)**, Bachlor of Engineering, Electronics and Communication Engineering
+**Ramaiah Institute of Technology (Aug 2017 - July 2021)**, Bachelor of Engineering, Electronics and Communication Engineering
 
 
 ## Miscellaneous
-- Certified Scrum Master - Issued by Scrum Alliance
-- Project Management Professional - Issued by Project Management Institute
+- Certified Scrum Master (2025)
+- Project Management Professional (2025)
 - Avid reader, head of the reading club in high school
-- Two-time blood donor
