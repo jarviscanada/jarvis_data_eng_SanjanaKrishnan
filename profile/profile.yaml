@@ -40,6 +40,9 @@ jarvis_projects:
   - name: "SQL Learning & RDBMS Practice"
     git_url: "/sql"
     description: "Completed SQL and RDBMS exercises while approaching each query as a business requirement and documenting the underlying business question it answered. Analyzed relational structures, validated data accuracy, and ensured query logic aligned with expected outcomes from a stakeholder perspective. Practiced converting informal questions into structured requirements and verifying results against test data. Developed disciplined documentation habits by writing query explanations and translating technical outputs into insights that support decision-making."
+  - name: "BSA Fundamentals"
+    git_url: "/profile"
+    description: "Executed a comprehensive BSA Fundamentals project focused on understanding a product request, breaking down business objectives, and documenting clear and structured requirements. Conducted requirements analysis to distinguish business needs from technical constraints and translated high-level goals into detailed functional and non-functional requirements. Explored the role of a Business Systems Analyst, gaining insight into how BSA work informs system design, stakeholder communication, and business decision-making. Documented assumptions, questions, and clarifications to simulate stakeholder interactions and ensure requirement completeness. Produced organized BRD- and SRD-style documentation that demonstrated the ability to express business logic, data needs, and expected system behavior clearly and analytically."
 
 # List of personal or academic projects
 # Feel free to add more projects
