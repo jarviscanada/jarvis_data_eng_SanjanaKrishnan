@@ -47,7 +47,7 @@
       "name": "BSA Fundamentals"
     },
     {
-      "description": "Developed three interactive Power BI dashboards to deliver actionable insights across business sales, survey data, and stock performance. Built a Beverages Sales Dashboard analyzing Coca-Colas sales and operating profit across U.S. states with AI Q\u0026A, key influencer visuals, and dynamic maps/matrices. Created a Data Professionals Survey Report transforming 600+ survey responses to highlight salary trends, job satisfaction, and skill popularity. Built a Stocks Dashboard integrating Alpha Vantage API data to visualize historical prices, trading volume, key financial metrics, and earnings estimates. Conducted data cleaning, transformation, and modeling, validated outputs, and documented assumptions and insights to translate technical metrics into clear business decisions.",
+      "description": "Developed three interactive Power BI dashboards to deliver actionable insights across business sales, survey data, and stock performance. Built a Beverages Sales Dashboard analyzing Coca-Colas sales and operating profit across U.S. states with AI Q\u0026A, key influencer visuals, and dynamic maps/matrices. Created a Data Professionals Survey Report transforming 600+ survey responses to highlight salary trends, job satisfaction, and skill popularity. Built a Stocks Dashboard integrating Alpha Vantage API data to visualize historical prices, trading volume, key financial metrics, and earnings estimates. Conducted data cleaning, transformation, and modeling, validated outputs, and documented assumptions and insights to translate technical metrics into clear business decisions",
       "git_url": "/powerbi",
       "name": "Power BI Fundamnetals"
     }
@@ -92,6 +92,7 @@
     "competent": [
       "JIRA",
       "Confluence",
+      "Power BI",
       "Stakeholder Engagement",
       "Linux",
       "Git/Github"
@@ -108,6 +109,7 @@
       "Informatica",
       "Requirements Elicitation",
       "Process Documentation",
+      "Data Visualization",
       "Story Mapping"
     ]
   },

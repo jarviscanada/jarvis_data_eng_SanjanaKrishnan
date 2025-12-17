@@ -16,11 +16,13 @@ skills:
     - Informatica
     - Requirements Elicitation
     - Process Documentation
+    - Data Visualization
     - Story Mapping
   # At least 5 skills
   competent:
     - JIRA
     - Confluence
+    - Power BI
     - Stakeholder Engagement
     - Linux
     - Git/Github
