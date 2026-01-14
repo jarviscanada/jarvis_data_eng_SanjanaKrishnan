@@ -4,11 +4,11 @@ I am a Business Systems Analyst in training with a strong foundation in data eng
 
 ## Skills
 
-**Proficient:** RDBMS/SQL, Informatica, Requirements Elicitation, Process Documentation, Data Visualization, Story Mapping
+**Proficient:** RDBMS/SQL, Data Profiling and Data Quality Analysis, Informatica, Exploratory Data Analysis, Requirements Elicitation, Process Documentation
 
-**Competent:** JIRA, Confluence, Power BI, Stakeholder Engagement, Linux, Git/Github
+**Competent:** JIRA, Confluence, Power BI, Data Cleaning and Validation, Business Metrics Analysis, Stakeholder Engagement, Linux, Git/Github
 
-**Familiar:** Airtable, Sprint Planning, Docker, Tableau, Elastic Search
+**Familiar:** Airtable, Docker, Sprint Planning, Tableau, Jupyter Notebook, Sprint Planning
 
 ## Jarvis Projects
 
@@ -22,6 +22,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SanjanaKri
 **BSA Fundamentals** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan/tree/master/bsa_fundamentals)]: Executed a comprehensive BSA Fundamentals project focused on understanding a product request, breaking down business objectives, and documenting clear and structured requirements. Conducted requirements analysis to distinguish business needs from technical constraints and translated high-level goals into detailed functional and non-functional requirements. Explored the role of a Business Systems Analyst, gaining insight into how BSA work informs system design, stakeholder communication, and business decision-making. Documented assumptions, questions, and clarifications to simulate stakeholder interactions and ensure requirement completeness. Produced organized BRD- and SRD-style documentation that demonstrated the ability to express business logic, data needs, and expected system behavior clearly and analytically.
 
 **Power BI Fundamnetals** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan/tree/master/powerbi)]: Developed three interactive Power BI dashboards to deliver actionable insights across business sales, survey data, and stock performance. Built a Beverages Sales Dashboard analyzing Coca-Colas sales and operating profit across U.S. states with AI Q&A, key influencer visuals, and dynamic maps/matrices. Created a Data Professionals Survey Report transforming 600+ survey responses to highlight salary trends, job satisfaction, and skill popularity. Built a Stocks Dashboard integrating Alpha Vantage API data to visualize historical prices, trading volume, key financial metrics, and earnings estimates. Conducted data cleaning, transformation, and modeling, validated outputs, and documented assumptions and insights to translate technical metrics into clear business decisions
+
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SanjanaKrishnan/tree/master/python_data_analytics)]: Analyzed 1.06M historical retail transactions to evaluate monthly revenue trends, average order value behavior, geographic revenue concentration, and product-level performance, identifying concentration risk and limitations of product-level decision-making without standardized master data. Translated analytical findings into actionable business insights and a phased roadmap focused on data quality and analytics maturity. Performed structured data validation to support analysis accuracy, including duplicate detection, invoice-level cancellation identification, exclusion of non-product transactions, and validation of invalid quantities and prices. Assessed SKU description inconsistencies to highlight reporting and attribution risk. Built a reproducible analytics environment using Docker, PostgreSQL, Jupyter, pandas, and SQLAlchemy, and communicated results through an executive-style presentation with clearly stated assumptions and limitations.
 
 
 ## Highlighted Projects
