@@ -13,26 +13,29 @@ skills:
   # At least 5 skills
   proficient:
     - RDBMS/SQL
+    - Data Profiling and Data Quality Analysis
     - Informatica
+    - Exploratory Data Analysis 
     - Requirements Elicitation
     - Process Documentation
-    - Data Visualization
-    - Story Mapping
   # At least 5 skills
   competent:
     - JIRA
     - Confluence
     - Power BI
+    - Data Cleaning and Validation
+    - Business Metrics Analysis
     - Stakeholder Engagement
     - Linux
     - Git/Github
   # At least 5 skills
   familiar:
     - Airtable
-    - Sprint Planning
     - Docker
+    - Sprint Planning
     - Tableau
-    - Elastic Search
+    - Jupyter Notebook
+    - Sprint Planning
 
 # List of Jarvis projects
 jarvis_projects:
@@ -48,6 +51,9 @@ jarvis_projects:
   - name: "Power BI Fundamnetals"
     git_url: "/powerbi"
     description: "Developed three interactive Power BI dashboards to deliver actionable insights across business sales, survey data, and stock performance. Built a Beverages Sales Dashboard analyzing Coca-Colas sales and operating profit across U.S. states with AI Q&A, key influencer visuals, and dynamic maps/matrices. Created a Data Professionals Survey Report transforming 600+ survey responses to highlight salary trends, job satisfaction, and skill popularity. Built a Stocks Dashboard integrating Alpha Vantage API data to visualize historical prices, trading volume, key financial metrics, and earnings estimates. Conducted data cleaning, transformation, and modeling, validated outputs, and documented assumptions and insights to translate technical metrics into clear business decisions"
+  - name: "Python Data Analytics"
+    git_url: "/python_data_analytics"
+    description: "Analyzed 1.06M historical retail transactions to evaluate monthly revenue trends, average order value behavior, geographic revenue concentration, and product-level performance, identifying concentration risk and limitations of product-level decision-making without standardized master data. Translated analytical findings into actionable business insights and a phased roadmap focused on data quality and analytics maturity. Performed structured data validation to support analysis accuracy, including duplicate detection, invoice-level cancellation identification, exclusion of non-product transactions, and validation of invalid quantities and prices. Assessed SKU description inconsistencies to highlight reporting and attribution risk. Built a reproducible analytics environment using Docker, PostgreSQL, Jupyter, pandas, and SQLAlchemy, and communicated results through an executive-style presentation with clearly stated assumptions and limitations."
 
 # List of personal or academic projects
 # Feel free to add more projects
